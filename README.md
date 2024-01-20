@@ -1,6 +1,6 @@
 # DTI-TESTEPRATICO
 
-Teste prático realizado para .
+Teste prático realizado para processo seletivo de vaga de estágio na DTI digital.
 
 ## Pré-requisitos
 
@@ -8,9 +8,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de [`Node.js`](https://nodejs.org/)
 
-## Instalando <Nome do Projeto>
+## Instalando dit-testepratico
 
-Para instalar o <Nome do Projeto>, siga estas etapas:
+Para instalar o dit-testepratico, siga estas etapas:
 
 
 ```bash
@@ -19,7 +19,7 @@ cd <nome-do-projeto>
 npm install
 ```
 
-## Utilizando Nome do Projeto
+## Utilizando dit-testepratico
 Para usar Nome do Projeto, siga estas etapas:
 
 ```bash	
