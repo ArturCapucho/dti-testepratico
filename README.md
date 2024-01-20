@@ -14,13 +14,13 @@ Para instalar o dit-testepratico, siga estas etapas:
 
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/ArturCapucho/dti-testepratico.git
 cd <dti-testepratico
 npm install
 ```
 
 ## Utilizando dit-testepratico
-Para usar Nome do Projeto, siga estas etapas:
+Para usar dti-testepratico, siga estas etapas:
 
 ```bash	
 npm run dev
